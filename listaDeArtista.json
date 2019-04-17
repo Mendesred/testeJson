@@ -1,19 +1,21 @@
-{"all":[
+{
+    "all":[
 
-    {
-        "foto":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjJxp2du8jhAhXcJ7kGHevTBjIQjRx6BAgBEAU&url=https%3A%2F%2Fmiami.cbslocal.com%2F2015%2F10%2F29%2Fadeles-hello-gets-rick-ross-remix%2F&psig=AOvVaw2u9ougBmm_fov9H0Uj4lFo&ust=1555086583634613",
-        "nomeDoArtista":"Adel",
-        "musica":"Hello"
-    },
-    {
-        "foto":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj-iPTMu8jhAhXaLLkGHQXxCTUQjRx6BAgBEAU&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D849325%26lang%3DPortuguese&psig=AOvVaw10pdiA5AoAusqhsGLDyCfi&ust=1555086644938047",
-        "nomeDoArtista":"Slipknot",
-        "musica":"Vermillion pt.2"
-    },
-    {
-        "foto":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiXma_0vcjhAhVQLLkGHRNEC3wQjRx6BAgBEAU&url=https%3A%2F%2Fveja.abril.com.br%2Fentretenimento%2Fkaty-perry-faz-clipe-autoajuda-para-musica-das-olimpiadas%2F&psig=AOvVaw2W3skTmjGrRnCnnBLz9b7B&ust=1555087335070120",
-        "nomeDoArtista":"Kattty Parry",
-        "musica":"Rise"
-    }
+        {
+            "foto":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjJxp2du8jhAhXcJ7kGHevTBjIQjRx6BAgBEAU&url=https%3A%2F%2Fmiami.cbslocal.com%2F2015%2F10%2F29%2Fadeles-hello-gets-rick-ross-remix%2F&psig=AOvVaw2u9ougBmm_fov9H0Uj4lFo&ust=1555086583634613",
+            "nomeDoArtista":"Adel",
+            "musica":"Hello"
+        },
+        {
+            "foto":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj-iPTMu8jhAhXaLLkGHQXxCTUQjRx6BAgBEAU&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D849325%26lang%3DPortuguese&psig=AOvVaw10pdiA5AoAusqhsGLDyCfi&ust=1555086644938047",
+            "nomeDoArtista":"Slipknot",
+            "musica":"Vermillion pt.2"
+        },
+        {
+            "foto":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiXma_0vcjhAhVQLLkGHRNEC3wQjRx6BAgBEAU&url=https%3A%2F%2Fveja.abril.com.br%2Fentretenimento%2Fkaty-perry-faz-clipe-autoajuda-para-musica-das-olimpiadas%2F&psig=AOvVaw2W3skTmjGrRnCnnBLz9b7B&ust=1555087335070120",
+            "nomeDoArtista":"Kattty Parry",
+            "musica":"Rise"
+        }
 
-]}
+    ]
+}
